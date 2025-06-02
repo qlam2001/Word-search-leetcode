@@ -1,4 +1,4 @@
-``python``
+
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
         len_of_word = len(word)
